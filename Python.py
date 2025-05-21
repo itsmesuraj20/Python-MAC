@@ -9,3 +9,5 @@
 # 2. Data Analysis: Python is widely used for data analysis and visualization using libraries like Pandas, NumPy, and Matplotlib.
 # 3. Machine Learning: Python is a popular choice for machine learning and artificial intelligence using libraries like TensorFlow and scikit-learn.
 # 4. Automation: Python can be used to automate repetitive tasks and create scripts for system administration.
+# 5. Game Development: Python can be used to create games using libraries like Pygame.
+# 6. Scientific Computing: Python is widely used in scientific computing and research using libraries like SciPy and SymPy.
