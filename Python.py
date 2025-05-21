@@ -11,3 +11,7 @@
 # 4. Automation: Python can be used to automate repetitive tasks and create scripts for system administration.
 # 5. Game Development: Python can be used to create games using libraries like Pygame.
 # 6. Scientific Computing: Python is widely used in scientific computing and research using libraries like SciPy and SymPy.
+# 7. Desktop Applications: Python can be used to create desktop applications using libraries like Tkinter and PyQt.
+# 8. Network Programming: Python can be used for network programming and creating network applications using libraries like socket and Twisted.
+# 9. Web Scraping: Python can be used to scrape data from websites using libraries like BeautifulSoup and Scrapy.       
+# 10. Internet of Things (IoT): Python can be used to create applications for IoT devices using libraries like MicroPython and CircuitPython.
