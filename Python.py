@@ -8,3 +8,4 @@
 # 1. Web Development: Python can be used to create web applications using frameworks like Django and Flask.
 # 2. Data Analysis: Python is widely used for data analysis and visualization using libraries like Pandas, NumPy, and Matplotlib.
 # 3. Machine Learning: Python is a popular choice for machine learning and artificial intelligence using libraries like TensorFlow and scikit-learn.
+# 4. Automation: Python can be used to automate repetitive tasks and create scripts for system administration.
