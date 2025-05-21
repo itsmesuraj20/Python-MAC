@@ -38,3 +38,6 @@ class MyClass:
         It describes what the method does
         """
         print("Hello, World!")
+my_class = MyClass()  # Create an instance of MyClass
+# Docstrings can also be used to document modules
+"""
