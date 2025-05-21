@@ -41,3 +41,14 @@ class MyClass:
 my_class = MyClass()  # Create an instance of MyClass
 # Docstrings can also be used to document modules
 """
+This is a docstring for the module
+It describes what the module does
+"""
+# This is a comment
+# This is another comment
+# This is a third comment
+# This is a fourth comment
+# This is a fifth comment   
+
+
+
